@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class MainTask1 {
+public class Task1 {
 
     public static void main(String[] args) throws IOException {
 
